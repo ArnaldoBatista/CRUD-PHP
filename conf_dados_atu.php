@@ -172,18 +172,10 @@ else{
 		print unlink("$destinoimg");
 		@move_uploaded_file($arquivo_tmp, $destino);
 	}
-	else{
-		$mensagem_erro = $mensagem_erro."<p>Erro ao salvar imagem</p>";
-		$erro = $erro+1;  
-	}
 	
 	if($_FILES["pdf"]["type"] == "application/pdf"){
 		unlink("$destinodocant");
 		@move_uploaded_file($arquivo_tmp_doc, $destinodoc);
-	}
-	else{
-		$mensagem_erro = $mensagem_erro."<p>Erro ao salvar arquivo</p>";
-		$erro = $erro+1;
 	}
 	
 	echo "<h4>Dados cadastrados com sucesso</h4><br>";
