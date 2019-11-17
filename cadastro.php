@@ -123,7 +123,6 @@
     <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="js/jquery.datetimepicker.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/modernizr-custom.js"></script>
 	<script type="text/javascript" src="js/js.js"></script>
 </body>
 </html>
