@@ -15,19 +15,19 @@ Opções para: acessar pagina principal, cadastrar e redefinir a senha.
 
 ### Pagina de cadastro e atualização.
 
-*Nome.*
-*CPF.* - com validação
-*Data e horario.*
-*Email.*
-*Senha.* - apenas cadastro
-*Endereço.*
-*Cidade.*
-*Estado.*
-*Imgaem.*
-*Arquivo PDF.*
-*Sexo.*
-*Área de interesse.*
-*Comentário.*
+*Nome.*  
+*CPF.* - com validação  
+*Data e horario.*  
+*Email.*  
+*Senha.* - apenas cadastro  
+*Endereço.*  
+*Cidade.*  
+*Estado.*  
+*Imgaem.*  
+*Arquivo PDF.*  
+*Sexo.*  
+*Área de interesse.*  
+*Comentário.*  
 
 ### Pagina principal.
 
